@@ -4,6 +4,9 @@ theme:
 
   name: material
 
+  font:
+    text: "JetBrains Mono"
+
   extra_css:
     - stylesheets/extra.css
 
